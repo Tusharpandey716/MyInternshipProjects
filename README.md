@@ -1,0 +1,1 @@
+This commit marks the completion of my first internship project at Motioncut, which involved developing a Java application for a quiz project. The project includes features such as dynamic quiz functionality, an interactive user interface, and robust backend logic. Included in this commit are the necessary files and documentation related to the project's completion.
